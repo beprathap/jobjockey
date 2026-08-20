@@ -1,8 +1,8 @@
 {
-  "name": "job-application-automation",
+  "name": "jobjockey",
   "version": "1.0.0",
   "private": true,
-  "description": "Browser automation to search and apply to jobs (starting with Dice Easy Apply) using Playwright.",
+  "description": "JobJockey — browser automation that rides through job portals (starting with Dice Easy Apply) and applies on your behalf using Playwright.",
   "type": "module",
   "scripts": {
     "login": "node src/login.js",

@@ -1,7 +1,8 @@
-# Job Application Automation
+# JobJockey
 
-Browser automation (Playwright, no backend/API calls) that searches Dice
-and runs through its Easy Apply flow using your resume/profile data.
+Browser automation (Playwright, no backend/API calls) that searches job
+portals — starting with Dice — and rides through their Easy Apply flows
+using your resume/profile data. More portals to come.
 
 ## Setup
 
