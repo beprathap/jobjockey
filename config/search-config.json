@@ -1,0 +1,15 @@
+{
+  "keywords": [
+    "Senior Java Developer",
+    "Java Full Stack Developer",
+    "Java Spring Boot Developer"
+  ],
+  "location": "United States",
+  "radiusMiles": 30,
+  "easyApplyOnly": true,
+  "postedWithinDays": 7,
+  "maxApplicationsPerRun": 15,
+  "excludeTitleKeywords": [
+    "QA", "Manual Tester", "Sr. Manager", "Director", "Recruiter"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "job-application-automation",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Browser automation to search and apply to jobs (starting with Dice Easy Apply) using Playwright.",
+  "type": "module",
+  "scripts": {
+    "login": "node src/login.js",
+    "apply": "node src/applyDice.js",
+    "apply:auto": "node src/applyDice.js --auto-submit"
+  },
+  "dependencies": {
+    "playwright": "^1.47.0"
+  }
+}
